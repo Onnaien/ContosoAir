@@ -1,5 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://dev.azure.com/onnaien/onnaien/_apis/build/status/Onnaien.ContosoAir?branchName=master)](https://dev.azure.com/onnaien/onnaien/_build/latest?definitionId=1&branchName=master)
 
 # Microsoft.Github CI Demo
 
