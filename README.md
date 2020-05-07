@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/onnaien/f4f8fb1d-73eb-4a10-a915-0056d0f5e749/0e737da9-cc08-4394-88c7-cfde1c87cfa6/_apis/work/boardbadge/e59ea570-32ce-4fac-970c-9ac327a5dc72)](https://dev.azure.com/onnaien/f4f8fb1d-73eb-4a10-a915-0056d0f5e749/_boards/board/t/0e737da9-cc08-4394-88c7-cfde1c87cfa6/Microsoft.RequirementCategory)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 [![Build Status](https://dev.azure.com/onnaien/onnaien/_apis/build/status/Onnaien.ContosoAir?branchName=master)](https://dev.azure.com/onnaien/onnaien/_build/latest?definitionId=1&branchName=master)
